@@ -11,4 +11,5 @@ for ref debian setting for working
  - Postman
  - Chrome
  - Thai Lang
-
+ - Fonts 
+    - Powerline
