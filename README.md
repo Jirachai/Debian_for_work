@@ -13,3 +13,6 @@ for ref debian setting for working
  - Thai Lang
  - Fonts 
     - Powerline
+ - XFCE
+ - Style Theam 
+    - load from hub https://www.xfce-look.org/
